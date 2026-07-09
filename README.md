@@ -1,4 +1,4 @@
-### Hi there, I'm Clerin Emeryck. A Backend & cloud engineer student from France <img width="25px" height="25px" alt="french flag" src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif"> ! <img width="25px" height="25px" alt="hand shake" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Hi there, I'm Clerin Emeryck — Backend Engineer | AI & LLM enthusiast from France <img width="25px" height="25px" alt="french flag" src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif"> <img width="25px" height="25px" alt="hand shake" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 <p align="left">
 <a href="https://www.linkedin.com/in/emeryck-clerin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,7 +8,30 @@
 
 ### About me
 
-<p aling="left"><samp>I am a 22yo young student developer living in France. Currently 5th year EPITECH student :mortar_board:, I study backend & cloud environment. I am working as Assistant Teacher at <a href="https://www.epitech.eu" target="_blank">Epitech</a>.<br/><br/> Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been doing a lot of sport since I'm 6 years old :mountain_bicyclist: :surfer:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+<p align="left"><samp>I am a 25yo developer living in France, specialising in backend engineering. I worked 2 years as a Full Stack Engineer at <a href="https://www.didask.com" target="_blank">Didask</a> and recently graduated from <a href="https://www.epitech.eu" target="_blank">EPITECH</a> :mortar_board:. I am also co-organiser of the <strong>GenAI Meetup Montpellier</strong> 🎙️, bringing together the local AI community.<br/><br/>Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. Today my biggest drive is AI — I'm obsessed with LLMs, prompt engineering, and building autonomous agents. I believe the combination of solid backend skills and AI is the most powerful toolkit to build things that matter. I wish to contribute one day to a project which will genuinely improve human habits.</samp></p>
+
+---
+
+### 🤖 AI & LLM — My Main Focus
+
+<p align="left"><samp>
+I'm deeply invested in the AI space, specifically around <strong>large language models</strong>, <strong>prompt engineering</strong>, and <strong>autonomous AI agents</strong>. I work with the OpenAI and Anthropic SDKs to build smart, tool-augmented systems and explore multi-agent orchestration patterns. My goal is to integrate LLM capabilities into real backend products — not just demos.
+</samp></p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0a0a0a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-1a1a2e?style=for-the-badge"/>
+</p>
+
+**Currently exploring:**
+- 🧠 Prompt engineering & chain-of-thought reasoning
+- 🤖 Autonomous AI agents & tool-use pipelines
+- 🔗 Multi-agent orchestration patterns
+- 📡 Integrating LLMs into backend services
+
+---
 
 ### Languages and Tools:
 <table border="0">
@@ -29,6 +52,7 @@
           <img width="64px" height="64px" alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
           <img width="64px" height="64px" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
           <img width="64px" height="64px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+          <img width="64px" height="64px" alt="openai" src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg">
          </p>
   </td>
  </tr>
